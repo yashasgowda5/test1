@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "yashas",
+      "age": 21,
+      "email": "yashas@example.com"
+    },
+    {
+      "id": 2,
+      "name": "akshitha",
+      "age": 25,
+      "email": "akshitha@example.com"
+    },
+    {
+      "id": 3,
+      "name": "sanketh",
+      "age": 21,
+      "email": "sanketh@example.com"
+    },
+    {
+      "id": 4,
+      "name": "sharmila",
+      "age": 21,
+      "email": "sharmila@example.com"
+    }
+  ]
+}
